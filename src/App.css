@@ -19,10 +19,11 @@
 
  @media (max-width : 300px ) {
   .App{
-    width: 100px;
+    width: auto;
     padding: 20px;
-    margin: 20px;
-    margin-left: 60px
+    margin: 5%;
+   
+    
   }
   
  }
